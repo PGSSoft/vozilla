@@ -6,9 +6,9 @@ Materiały dodatkowe do raportu
 Pełny tekst raportu / full report
 ----
 
-"[Analiza aktywności wypożyczalni samochodów elektrycznych Vozilla](todo)" (wersja polska)
+"[Analiza aktywności wypożyczalni samochodów elektrycznych Vozilla](https://www.pgs-soft.com/pl/blog/data-science-w-praktyce-analiza-aktywnosci-wypozyczalni-samochodow-elektrycznych-vozilla)" (wersja polska)
 
-"[An analysis of Vozilla Electric Car Rental Activity](todo)" (english version)
+"[An analysis of Vozilla Electric Car Rental Activity]()" (english version SOON)
 
 
 Pliki do pobrania / files to download
