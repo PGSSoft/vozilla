@@ -14,11 +14,11 @@ Pełny tekst raportu / full report
 Pliki do pobrania / files to download
 ----
 
-[VozillaJSON.7z](VozillaJSON.7z) - dane źródłowe / source data, 252270 x JSON, 13.7 GB
+[VozillaJSON.7z](https://github.com/PGSSoft/vozilla/raw/master/VozillaJSON.7z) - dane źródłowe / source data, 252270 x JSON, 13.7 GB
 
-[VozillaJSON_BIG.7z](VozillaJSON_BIG.7z) - dane źródłowe w formacie całodziennym / source data in all-day format, 176 x JSON, 13.7 GB
+[VozillaJSON_BIG.7z](https://github.com/PGSSoft/vozilla/raw/master/VozillaJSON_BIG.7z) - dane źródłowe w formacie całodziennym / source data in all-day format, 176 x JSON, 13.7 GB
 
-[VozillaWorkspace.RData](VozillaWorkspace.RData) - dane wczytane do workspace języka R / data loaded into R workspace
+[VozillaWorkspace.RData.7z](https://github.com/PGSSoft/vozilla/raw/master/VozillaWorkspace.RData.7z) - dane wczytane do workspace języka R / data loaded into R workspace
 
 [Scripts](Scripts) - skrypty języka R do ładowania, przetwarzania i wizualizacji danych / R scripts for loading, parsing and visualizing data
 
